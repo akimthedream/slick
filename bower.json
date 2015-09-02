@@ -23,6 +23,5 @@
         "index.html"
     ],
     "dependencies": {
-        "jquery": ">=1.7"
     }
 }
